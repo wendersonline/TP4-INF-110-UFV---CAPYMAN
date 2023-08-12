@@ -1,0 +1,22 @@
+﻿  pacman.cpp
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(81,16): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(416,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(421,45): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(556,51): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(556,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(560,50): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(560,40): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(565,32): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(566,67): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(566,46): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(573,46): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(573,33): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(610,48): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(610,34): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(613,51): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(613,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(616,51): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(616,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(619,51): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\wende\Desktop\SFML\main.cpp\main.cpp\pacman.cpp(619,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  main.cpp.vcxproj -> C:\Users\wende\Desktop\SFML\main.cpp\x64\Debug\main.cpp.exe
